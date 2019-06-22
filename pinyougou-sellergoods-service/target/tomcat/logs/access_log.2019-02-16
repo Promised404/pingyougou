@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [16/Feb/2019:15:26:05 +0800] "GET /itemCat/findByParentId.do?parentId=0 HTTP/1.1" 404 1001 http-bio-9001-exec-1 117
+0:0:0:0:0:0:0:1 - - [16/Feb/2019:15:26:05 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-9001-exec-3 4

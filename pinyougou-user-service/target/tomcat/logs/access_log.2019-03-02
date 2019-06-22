@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [02/Mar/2019:18:59:01 +0800] "GET /login/cas?ticket=ST-1-H6d3abWYnufGYDRNfVab-cas01.example.org HTTP/1.1" 404 969 http-bio-9006-exec-1 33
+0:0:0:0:0:0:0:1 - - [02/Mar/2019:18:59:01 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-9006-exec-2 1
+0:0:0:0:0:0:0:1 - - [02/Mar/2019:19:00:50 +0800] "GET /login/cas?ticket=ST-1-H6d3abWYnufGYDRNfVab-cas01.example.org HTTP/1.1" 404 969 http-bio-9006-exec-4 1
+0:0:0:0:0:0:0:1 - - [02/Mar/2019:19:00:52 +0800] "GET /login/cas?ticket=ST-2-xBgIteHxJpYsPNFgOEMA-cas01.example.org HTTP/1.1" 404 969 http-bio-9006-exec-6 1
